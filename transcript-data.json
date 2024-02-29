@@ -22,7 +22,9 @@
         "atp_term": {
             "id": 131,
             "name": "2023-2024 Odd Term Bachelor"
-        }
+        },
+        "gpa":2.62,
+        "cgpa":2.62
     },
     "data": [
         {
