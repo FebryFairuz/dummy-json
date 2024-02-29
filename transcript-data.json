@@ -1,0 +1,260 @@
+{
+    "studentdata": {
+        "studentid":"12302080",
+        "fullname": "Kelvin Maliebhar Dangosu",
+        "is_active": 1,
+        "sgumail": "kelvin.dangosu@student.sgu.ac.id",
+        "std_class": "A",
+        "place_birth":"Otuakeme",
+        "dob":"2003-11-10",
+        "faculty": {
+            "id": 1,
+            "name": "Faculty Of Engineering and Information Technology"
+        },
+        "department": {
+            "id": 2,
+            "name": "Information Technology"
+        },
+        "specialization": {
+            "id": 3,
+            "name": "IT Data Science & AI"
+        },
+        "atp_term": {
+            "id": 131,
+            "name": "2023-2024 Odd Term Bachelor"
+        }
+    },
+    "data": [
+        {
+            "atd": 0,                        
+            "course": {
+                "code": "Q330-1LALA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "English 1",
+                "credit": 2,
+                "ects": 3,
+                "id": 710
+            },
+            "finalexam": 80,
+            "id": 11792788,
+            "merit": 8,
+            "merit_fin": 7.2,
+            "midterm": 91,
+            "quiz_1": 91,
+            "quiz_2": 0,
+            "quiz_3": 0,
+            "quiz_4": 0,
+            "quiz_5": 0,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 84,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 0,
+            "course": {
+                "code": "N212-1BALB",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Analytical & Creative Thinking",
+                "credit": 3,
+                "ects": 4,
+                "id": 1775
+            },
+            "finalexam": 70,
+            "id": 11792789,
+            "merit": 10.5,
+            "merit_fin": 8.4,
+            "midterm": 83,
+            "quiz_1": 60,
+            "quiz_2": 94,
+            "quiz_3": 95,
+            "quiz_4": 88,
+            "quiz_5": 40,
+            "quiz_6": 70,
+            "remark": "",
+            "score": 72,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 0,
+            "course": {
+                "code": "G170-1BITLA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Discrete Mathematics",
+                "credit": 2,
+                "ects": 0,
+                "id": 1781
+            },
+            "finalexam": 42,
+            "id": 11792790,
+            "merit": 3.6,
+            "merit_fin": 2,
+            "midterm": 58,
+            "quiz_1": 25,
+            "quiz_2": 90,
+            "quiz_3": 0,
+            "quiz_4": 53,
+            "quiz_5": 82,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 50,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 12.5,
+            "course": {
+                "code": "I322-1BITMA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Algorithms and Object-Oriented Programming & Lab",
+                "credit": 4,
+                "ects": 6,
+                "id": 2266
+            },
+            "finalexam": 74,
+            "id": 11792791,
+            "merit": 11.2,
+            "merit_fin": 10.8,
+            "midterm": 72,
+            "quiz_1": 92,
+            "quiz_2": 50,
+            "quiz_3": 75,
+            "quiz_4": 50,
+            "quiz_5": 0,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 71,
+            "semester": 1,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 21.43,
+            "course": {
+                "code": "I321-1BITMA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Data Science Programming Language",
+                "credit": 2,
+                "ects": 3,
+                "id": 2267
+            },
+            "finalexam": 80,
+            "id": 11792792,
+            "merit": 8,
+            "merit_fin": 7.2,
+            "midterm": 100,
+            "quiz_1": 100,
+            "quiz_2": 100,
+            "quiz_3": 0,
+            "quiz_4": 73,
+            "quiz_5": 0,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 84,
+            "semester": 1,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 0,
+            "course": {
+                "code": "I240-1BITMA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Relational Database Design & Lab",
+                "credit": 3,
+                "ects": 4,
+                "id": 2268
+            },
+            "finalexam": 53,
+            "id": 11792793,
+            "merit": 8.1,
+            "merit_fin": 6,
+            "midterm": 70,
+            "quiz_1": 19,
+            "quiz_2": 92,
+            "quiz_3": 100,
+            "quiz_4": 27,
+            "quiz_5": 85,
+            "quiz_6": 100,
+            "remark": "",
+            "score": 60,
+            "semester": 1,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 0,
+            "course": {
+                "code": "I310-1BITMA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Web Design Fundamental",
+                "credit": 2,
+                "ects": 3,
+                "id": 2269
+            },
+            "finalexam": 80,
+            "id": 11792794,
+            "merit": 8,
+            "merit_fin": 8,
+            "midterm": 91,
+            "quiz_1": 94,
+            "quiz_2": 88,
+            "quiz_3": 0,
+            "quiz_4": 81,
+            "quiz_5": 88,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 118,
+            "semester": 1,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 0,
+            "course": {
+                "code": "G310-1BITLA",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Statistics for Data Science",
+                "credit": 2,
+                "ects": 3,
+                "id": 2270
+            },
+            "finalexam": 40,
+            "id": 11792795,
+            "merit": 0,
+            "merit_fin": 0,
+            "midterm": 12,
+            "quiz_1": 12,
+            "quiz_2": 0,
+            "quiz_3": 0,
+            "quiz_4": 52,
+            "quiz_5": 0,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 37,
+            "semester": 1,
+            "status": "ACTIVE"
+        },
+        {
+            "atd": 7.14,
+            "course": {
+                "code": "I120-1BITLB",
+                "course_type": "asc.course.type.mandatory",
+                "coursetitle": "Linux Fundamental and Computer Network",
+                "credit": 2,
+                "ects": 3,
+                "id": 2272
+            },
+            "finalexam": 100,
+            "id": 11792796,
+            "merit": 4.2,
+            "merit_fin": 8,
+            "midterm": 62,
+            "quiz_1": 40,
+            "quiz_2": 83,
+            "quiz_3": 0,
+            "quiz_4": 100,
+            "quiz_5": 0,
+            "quiz_6": 0,
+            "remark": "",
+            "score": 90,
+            "semester": 1,
+            "status": "ACTIVE"
+        }
+    ]
+}
